@@ -3,32 +3,31 @@ html {
 }
 
 main {
-  background-color: #ccc;
 }
 
 table {
   border: 1px #ccc;
 }
 
-.Greys {
+.greys {
   background-color: #ccc;
-  color: #333;
+  color: #666;
   border: #f2f2f2;
 }
 
-.Blues {
+.blues {
   background-color: #d2d6f0;
   color: #1d38da;
   border: #38448e;
 }
 
-.Greens {
+.greens {
   background-color: #d1e0bf;
   color: #6b7e54;
   border: #51603f;
 }
 
-.Reds {
+.reds {
   background-color: #f2bcbc;
   color: #b92828;
   border: #991919;
