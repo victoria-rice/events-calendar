@@ -1,3 +1,35 @@
 html {
   font-family: 'Merriweather', serif;
 }
+
+main {
+  background-color: #ccc;
+}
+
+table {
+  border: 1px #666;
+}
+
+.Greys {
+  background-color: #ccc;
+  color: #666;
+  border: #666;
+}
+
+.Blues {
+  background-color: #d2d6f0;
+  color: #1d38da;
+  border: #38448e;
+}
+
+.Greens {
+  background-color: #d1e0bf;
+  color: #6b7e54;
+  border: #51603f;
+}
+
+.Reds {
+  background-color: #f2bcbc;
+  color: #b92828;
+  border: #991919;
+}
