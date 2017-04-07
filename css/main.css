@@ -1,18 +1,16 @@
 html {
+  box-sizing: border-box;
   font-family: 'Merriweather', serif;
 }
 
-main {
-}
-
-table {
-  border: 1px #ccc;
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 .greys {
-  background-color: #ccc;
+  background-color: #f2f2f2;
   color: #666;
-  border: #f2f2f2;
+  border: #333;
 }
 
 .blues {
